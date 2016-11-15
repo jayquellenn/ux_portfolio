@@ -1,0 +1,13 @@
+body{
+  font-family: sans-serif;
+}
+.square{
+  overflow: hidden;
+  width: 500px;
+  height: 500px;
+}
+.description{
+  background-color: #eee;
+  padding: 10px;
+  border-radius: 0px 0px 4px 4px;
+}
