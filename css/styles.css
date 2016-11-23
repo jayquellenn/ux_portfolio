@@ -17,3 +17,6 @@ body{
 .red-box{
   background-color: #ff0000;
 }
+.space{
+  margin: 15px 0;
+}
